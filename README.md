@@ -68,12 +68,11 @@ I am an **AI & Data Science Enthusiast** passionate about transforming raw data 
 ## 🔄 Automation & Workflows
 
 ![n8n](https://img.shields.io/badge/n8n-pink)
-![Selenium](https://img.shields.io/badge/Selenium-green)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey)
 
 ---
 
-## 🚀 DevOps & Deployment
+## 🚀 Deployment
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-blue)
