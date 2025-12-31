@@ -1,4 +1,3 @@
-# Vanaja-Pulluri
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vanaja%20Pulluri&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
