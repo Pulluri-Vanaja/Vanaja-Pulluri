@@ -16,7 +16,6 @@ I am an **AI & Data Science Enthusiast** passionate about transforming raw data 
 
 📍 **Hyderabad, India**  
 📧 **pullurivanaja08@gmail.com**  
-
 🔗 [LinkedIn](//www.linkedin.com/in/pulluri-vanaja-47043a33b/)  
 
 
