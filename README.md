@@ -1,6 +1,6 @@
 # Vanaja-Pulluri
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sudhakar%20Damarasingi&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Vanaja%20Pulluri&fontSize=40&fontColor=ffffff" />
 </p>
 
 ## 👨‍💻 About Me
