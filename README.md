@@ -35,7 +35,7 @@ I am an **AI & Data Science Enthusiast** passionate about transforming raw data 
 
 ## 🤖 LLM / GenAI Frameworks
 
-![LangChain](https://img.shields.io/badge/LangChain-black)
+![LangChain](https://img.shields.io/badge/LangChain-yellow)
 ![LangGraph](https://img.shields.io/badge/LangGraph-blue)
 
 ---
