@@ -1,14 +1,19 @@
 # Vanaja-Pulluri
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Vanaja%20Pulluri&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pulluri%20Vanaja&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## 👨‍💻 About Me
 
-Hi, I build intelligent systems using **Machine Learning, Deep Learning, NLP, and Generative AI**.  
-I specialize in creating **end-to-end AI products**, from model development to **full-stack deployment** using **FastAPI, Streamlit, and cloud platforms**.
+### 👋 Hello, I’m Vanaja
 
-My work includes **predictive analytics, LLM applications, dashboards, automation**, and building **scalable AI pipelines**.
+I am an **AI & Data Science Enthusiast** passionate about transforming raw data into **intelligent, real-world solutions**.
+
+💡 I focus on:
+- Building **Machine Learning & Deep Learning models**
+- Developing **Generative AI & LLM-based applications**
+- Creating **end-to-end AI systems** from data → model → deployment
+
+🎯 My goal is to design **scalable, production-ready AI solutions** that solve real business problems.
 
 📍 **Hyderabad, India**  
 📧 **pullurivanaja08@gmail.com**  
@@ -71,7 +76,7 @@ My work includes **predictive analytics, LLM applications, dashboards, automatio
 ## 🚀 DevOps & Deployment
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
-![Streamlit](https://img.shields.io/badge/Streamlitr-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-blue)
 
 ---
 
@@ -88,18 +93,18 @@ My work includes **predictive analytics, LLM applications, dashboards, automatio
 
 ## 🚀 Featured Projects
 
-- 🔷 **AQI Predictor Pro** — Real-Time Air Pollution Forecasting  
-- 📉 **Customer Churn Prediction** — Machine Learning  
-- 🚗 **Used Car Price Prediction** — OLX Dataset  
-- 📊 **ADIDAS Sales Analysis** — Power BI  
-- 🗄 **SQL Employee Data Management**  
+- 🔷 **Student Study Habits Predicting Academic Performance- Machine Learning**
+- 📉 **Bank Customer Churn Prediction** — ANN
+- 🚗 **Car Dataset EDA – Exploratory Data Analysis (Web Scraping)** 
+- 📊 **Telangana Rainfall Analysis – Power BI Dashboard** 
+- 📖 **Library Management Analysis - SQL**  
 - 🤖 **GenAI Mini Projects**
 
 ---
 
 ## 📘 Daily Learning
 
-I continuously improve my skills in **AI, ML, GenAI, LLMs, NLP**, and **deployment strategies** including **FastAPI and cloud ML hosting**.
+I continuously improve my skills in **AI, ML, GenAI, LLMs, NLP**, and **deployment strategies** 
 
 ---
 
