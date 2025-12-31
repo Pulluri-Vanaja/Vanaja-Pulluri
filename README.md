@@ -1,6 +1,6 @@
 # Vanaja-Pulluri
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pulluri%20Vanaja&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vanaja%20Pulluri&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
@@ -85,9 +85,9 @@ I am an **AI & Data Science Enthusiast** passionate about transforming raw data 
 - ▶ Artificial Intelligence & Machine Learning  
 - ▶ Generative AI & LLMs  
 - ▶ Natural Language Processing  
-- ▶ Data Analytics & Business Intelligence  
-- ▶ Databases & Backend  
-- ▶ Web Scraping & Automation  
+- ▶ Data Analytics 
+- ▶ Web Scraping & Automation
+- ▶ Data Science
 
 ---
 
@@ -110,7 +110,9 @@ I continuously improve my skills in **AI, ML, GenAI, LLMs, NLP**, and **deployme
 
 ## 🌱 Current Focus Areas
 
-- LLM Fine-tuning  
+- Langchain and langgraph 
+- LLM Fine-tuning
+- Langchain and langgraph 
 - RAG-based Conversational Agents  
 - Deep Learning specialization  
 - Advanced ML deployment  
@@ -124,8 +126,8 @@ I continuously improve my skills in **AI, ML, GenAI, LLMs, NLP**, and **deployme
 - AI / ML Engineer  
 - Data Scientist  
 - Generative AI Engineer  
-- MLOps Learner  
-- Data Analyst  
+- Data Analyst
+- Agentic AI 
 
 ✅ Ready to join immediately  
 🌍 Open to relocation  
